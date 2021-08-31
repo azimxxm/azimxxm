@@ -24,9 +24,10 @@
 The platforms I read about | My skills 
 :-----|:------------:
 - [Freecodecamp 🚀](https://www.freecodecamp.org) | - **HTML**  **CSS**
-- [Sololearn 🚀](https://www.sololearn.com) | - - **Github**
+- [Sololearn 🚀](https://www.sololearn.com) | - **JavaScript**
 - [W3schools 🚀](https://www.w3schools.com) | - **Bootstrap**
-- [Amigoscode 🚀](https://amigoscode.com) | - **JavaScript**
+- [Amigoscode 🚀](https://amigoscode.com) | - **Github**
 - [Linkedin-learning 🚀](https://www.linkedin.com/learning) | - **Django**
 - [Youtube 🚀](https://www.youtube.com) | - **Postgresql**
+- 
 
