@@ -20,20 +20,13 @@
 
 - <a href="mailto:azimxxm@gmail.com">azimxxm@gmail.com 📥</a>
 
-### The platforms I read about
-- [Freecodecamp 🚀](https://www.freecodecamp.org)
-- [Sololearn 🚀](https://www.sololearn.com)
-- [W3schools 🚀](https://www.w3schools.com)
-- [Amigoscode 🚀](https://amigoscode.com)
-- [Linkedin-learning 🚀](https://www.linkedin.com/learning)
-- [Youtube 🚀](https://www.youtube.com)
 
-### My skills
-- **HTML** 
-- **CSS**
-- **Bootstrap**
-- **JavaScript**
-- **Django**
-- **Postgresql**
-- **Github**
+The platforms I read about | My skills 
+:-----|:------------:
+- [Freecodecamp 🚀](https://www.freecodecamp.org) | - **HTML**  **CSS**
+- [Sololearn 🚀](https://www.sololearn.com) | - - **Github**
+- [W3schools 🚀](https://www.w3schools.com) | - **Bootstrap**
+- [Amigoscode 🚀](https://amigoscode.com) | - **JavaScript**
+- [Linkedin-learning 🚀](https://www.linkedin.com/learning) | - **Django**
+- [Youtube 🚀](https://www.youtube.com) | - **Postgresql**
 
