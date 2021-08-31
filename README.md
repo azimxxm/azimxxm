@@ -6,27 +6,12 @@
 - (+998) 99 409-01-29 my cell phone  📞
 - (+99870) 603-89-30 my home phone ☎️
 
-
-### My social networks 
-- <a href="https://www.youtube.com/channel/UCfliQ_F24412ey6V9tmYJWA">Youtube channel 🎥</a>
-
-- <a href="https://www.instagram.com/azim_29_01">Instagram 📸</a>
-
-- <a href="https://www.linkedin.com/in/azimjon-abdurasulov-aa10671b3">Linkedin ✈️</a>
-
-- <a href="https://www.facebook.com/azimbekabdurasulov">Facebook 📸</a>
-
-- <a href="mailto:www.azim777.com@gmail.com">www.azim777.com@gmail.com 📥</a>
-
-- <a href="mailto:azimxxm@gmail.com">azimxxm@gmail.com 📥</a>
-
-
-The platforms I read about | My skills 
-:-----|:------------:
-[Freecodecamp 🚀](https://www.freecodecamp.org) | **HTML**  **CSS**
-[Sololearn 🚀](https://www.sololearn.com) | **JavaScript**
-[W3schools 🚀](https://www.w3schools.com) | **Bootstrap**
-[Amigoscode 🚀](https://amigoscode.com) | **Github**
-[Linkedin-learning 🚀](https://www.linkedin.com/learning) | **Django**
-[Youtube 🚀](https://www.youtube.com) | **Postgresql**
+The platforms I read about | My skills | My social networks
+:--------------|:----------|:-------------:
+[Freecodecamp 🚀](https://www.freecodecamp.org) | **HTML**  **CSS** | <a href="https://www.youtube.com/channel/UCfliQ_F24412ey6V9tmYJWA">Youtube channel 🎥</a>
+[Sololearn 🚀](https://www.sololearn.com) | **JavaScript** | <a href="https://www.instagram.com/azim_29_01">Instagram 📸</a>
+[W3schools 🚀](https://www.w3schools.com) | **Bootstrap** | <a href="https://www.linkedin.com/in/azimjon-abdurasulov-aa10671b3">Linkedin ✈️</a>
+[Amigoscode 🚀](https://amigoscode.com) | **Github** | <a href="https://www.facebook.com/azimbekabdurasulov">Facebook 📸</a>
+[Linkedin-learning 🚀](https://www.linkedin.com/learning) | **Django** | <a href="mailto:www.azim777.com@gmail.com">www.azim777.com@gmail.com 📥</a>
+[Youtube 🚀](https://www.youtube.com) | **Postgresql** | <a href="mailto:azimxxm@gmail.com">azimxxm@gmail.com 📥</a>
 
