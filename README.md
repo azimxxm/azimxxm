@@ -29,5 +29,4 @@ The platforms I read about | My skills
 - [Amigoscode 🚀](https://amigoscode.com) | - **Github**
 - [Linkedin-learning 🚀](https://www.linkedin.com/learning) | - **Django**
 - [Youtube 🚀](https://www.youtube.com) | - **Postgresql**
-- 
 
