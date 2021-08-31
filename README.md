@@ -27,6 +27,6 @@ The platforms I read about | My skills
 [Sololearn 🚀](https://www.sololearn.com) | **JavaScript**
 [W3schools 🚀](https://www.w3schools.com) | **Bootstrap**
 [Amigoscode 🚀](https://amigoscode.com) | **Github**
-[Linkedin-learning 🚀](https://www.linkedin.com/learning) | - **Django**
+[Linkedin-learning 🚀](https://www.linkedin.com/learning) | **Django**
 [Youtube 🚀](https://www.youtube.com) | **Postgresql**
 
