@@ -1,7 +1,6 @@
 ## About me 
 #### Hi, my brief description. I graduated from college in 2018 and went to the army for 1 year. I came from the army and started learning programming. Now I know HTML, CSS, JavaScript, Bootstrap, Python, Django and Git. I can also work with the Telegram bot api.
 
-## Contact me
 ### My phone number:
 - (+998) 99 409-01-29 my cell phone  📞
 - (+99870) 603-89-30 my home phone ☎️
