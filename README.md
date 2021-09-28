@@ -13,5 +13,6 @@ The platforms I read about | My skills | My social networks
 [Amigoscode 🚀](https://amigoscode.com) | **Github** | <a href="https://www.facebook.com/azimbekabdurasulov">Facebook 📸</a>
 [Freecodecamp, W3schools, Sololearn, 🚀](https://www.linkedin.com/learning) | **Python** | <a href="https://www.webappstore.uz">webappstore.uz ✈️</a>
 [Linkedin-learning 🚀](https://www.linkedin.com/learning) | **Django** | <a href="mailto:www.azim777.com@gmail.com">www.azim777.com@gmail.com 📥</a>
+[Online course 🚀](https://mohirdev.uz) | **Telegram API** | <a href="https://t.me/azim_01_29">Telegram ✈️</a>
 [Youtube 🚀](https://www.youtube.com) | **Postgresql** | <a href="mailto:azimxxm@gmail.com">azimxxm@gmail.com 📥</a>
 
