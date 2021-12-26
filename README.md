@@ -15,4 +15,4 @@ The platforms I read about | My skills | My social networks
 [Freecodecamp, W3schools, Sololearn, 🚀](https://www.linkedin.com/learning) | **Python** | <a href="https://www.webappstore.uz">webappstore.uz ✈️</a>
 [Linkedin-learning 🚀](https://www.linkedin.com/learning) | **Django** | <a href="mailto:www.azim777.com@gmail.com">www.azim777.com@gmail.com 📥</a>
 [Youtube 🚀](https://www.youtube.com) | **Postgresql** | <a href="mailto:azimxxm@gmail.com">azimxxm@gmail.com 📥</a>
-[Youtube and Other teachers 🚀](https://www.youtube.com) | **Figma web Design** | <a href="tel:+998994090129"> Call 📞</a>
+[Youtube and Other teachers 🚀](https://www.youtube.com) | **Figma web Design** | <a href="tel:+998994090129"> -------</a>
