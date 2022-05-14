@@ -48,16 +48,3 @@ Full-Stack Developer. | <a href="https://1sonia.uz/" target="_blank" rel="norefe
 <a href="http://www.github.com/azimxxm"><img src="https://github-readme-stats.vercel.app/api?username=azimxxm&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="azimxxm's GitHub stats" /></a>
 
 <a href="http://www.github.com/azimxxm"><img src="https://github-readme-streak-stats.herokuapp.com/?user=azimxxm&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
-| The platforms I read about                                                  | My skills            |                                    My social networks                                     |
-|:----------------------------------------------------------------------------|:---------------------|:-----------------------------------------------------------------------------------------:|
-| [Freecodecamp 🚀](https://www.freecodecamp.org)                             | **HTML**  **CSS**    | <a href="https://www.youtube.com/channel/UCfliQ_F24412ey6V9tmYJWA">Youtube channel 🎥</a> |
-| [Sololearn 🚀](https://www.sololearn.com)                                   | **JavaScript**       |              <a href="https://www.instagram.com/azim_29_01">Instagram 📸</a>              |
-| [Online course 🚀](https://mohirdev.uz)                                     | **Telegram API**     |                     <a href="https://t.me/azim_01_29">Telegram ✈️</a>                     |
-| [Amigoscode 🚀](https://amigoscode.com)                                     | **Github**           |           <a href="https://www.facebook.com/azimbekabdurasulov">Facebook 📸</a>           |
-| [W3schools 🚀](https://www.w3schools.com)                                   | **Bootstrap**        |    <a href="https://www.linkedin.com/in/azimjon-abdurasulov-aa10671b3">Linkedin ✈️</a>    |
-| [Freecodecamp, W3schools, Sololearn, 🚀](https://www.linkedin.com/learning) | **Python**           |                <a href="https://www.webappstore.uz">webappstore.uz ✈️</a>                 |
-| [Linkedin-learning 🚀](https://www.linkedin.com/learning)                   | **Django**           |        <a href="mailto:www.azim777.com@gmail.com">www.azim777.com@gmail.com 📥</a>        |
-| [Youtube 🚀](https://www.youtube.com)                                       | **Postgresql**       |                <a href="mailto:azimxxm@gmail.com">azimxxm@gmail.com 📥</a>                |
-| [Youtube and Other teachers 🚀](https://www.youtube.com)                    | **Figma web Design** |                         <a href="tel:+998994090129"> -------</a>                          |
