@@ -1,10 +1,10 @@
-## Hi 👋 My name is Azimjon Abdurasulov. 
+# Hi 👋 My name is Azimjon Abdurasulov. 
 
 
 Full-Stack Developer. | <a href="https://1sonia.uz/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/76002783/168444357-e0b4f5b1-5503-4d37-9700-0005ea4055de.png"  height="40" alt="Typescript" /></a> team member
 ---------------
 
-### My phone number:
+## My phone number:
 - (+998) 99 409-01-29 my cell phone  📞
 - (+99870) 603-89-30 my home phone ☎️
 
