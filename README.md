@@ -1,12 +1,27 @@
 # Hi 👋 My name is Azimjon Abdurasulov
 
+<table style="margin-left: auto; margin-right: auto; font-size:25px">
 
-Full-Stack Developer. | <a href="https://1sonia.uz/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/76002783/168444357-e0b4f5b1-5503-4d37-9700-0005ea4055de.png"  height="40" alt="Typescript" /></a> team member
----------------
+  <tr>
+  <td>Full-Stack Developer</td>
+    <td>
+        <a  href="https://1sonia.uz/" target="_blank" rel="noreferrer">
+        <img src="https://user-images.githubusercontent.com/76002783/168444357-e0b4f5b1-5503-4d37-9700-0005ea4055de.png"  height="40" alt="1sonia.uz-logo" />
+        </a>
+    </td>
+ </tr>
 
-## My phone number:
-- (+998) 99 409-01-29 my cell phone  📞
-- (+99870) 603-89-30 my home phone ☎️
+</table>
+
+
+
+<table style="margin-left: auto; margin-right: auto; font-size:25px">
+
+  <tr><th>Cell phone  📞</th>               <th>Home phone ☎️</th></tr>
+  <tr><td>(+998) 99 409-01-29</td>          <td>(+99870) 603-89-30</td></tr>
+
+</table>
+
 
 
 ## Skills
@@ -40,11 +55,36 @@ Full-Stack Developer. | <a href="https://1sonia.uz/" target="_blank" rel="norefe
 </p>
 
 
-### Badges
-<a href="https://www.github.com/azimxxm" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/azimxxm?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-<b>My GitHub Stats</b>
+<table style="margin-left: auto; margin-right: auto; font-size:25px">
 
-<a href="http://www.github.com/azimxxm"><img src="https://github-readme-stats.vercel.app/api?username=azimxxm&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="azimxxm's GitHub stats" /></a>
+  <tr>
+    <td>
+        <a href="https://www.github.com/azimxxm" target="_blank" rel="noreferrer">Badges:</a>
+    </td>
+    <td>
+        <a href="https://www.github.com/azimxxm" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/azimxxm?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+        </a>
+    </td>
+  </tr>
 
-<a href="http://www.github.com/azimxxm"><img src="https://github-readme-streak-stats.herokuapp.com/?user=azimxxm&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</table>
+
+
+<h1 align="center"> My GitHub Stats </h1>
+
+
+<table style="margin-left: auto; margin-right: auto; font-size:25px">
+
+  <tr>
+    <td>
+        <a href="http://www.github.com/azimxxm"><img src="https://github-readme-stats.vercel.app/api?username=azimxxm&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="azimxxm's GitHub stats" />
+        </a>
+    </td>
+    <td>
+        <a href="http://www.github.com/azimxxm"><img src="https://github-readme-streak-stats.herokuapp.com/?user=azimxxm&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+        </a>
+    </td>
+  </tr>
+
+</table>
