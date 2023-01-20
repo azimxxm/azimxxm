@@ -78,7 +78,7 @@
 
   <tr>
     <td>
-        <a href="http://www.github.com/azimxxm"><img src="https://github-readme-stats.vercel.app/api?username=azimxxm&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="azimxxm's GitHub stats" />
+        <a href="http://www.github.com/azimxxm"><img src="https://github-readme-stats.vercel.app/api?username=azimxxm&show_icons=true&theme=radical" alt="azimxxm's GitHub stats" />
         </a>
     </td>
     <td>
