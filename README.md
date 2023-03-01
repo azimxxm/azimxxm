@@ -88,3 +88,36 @@
   </tr>
 
 </table>
+
+
+<table style="margin-left: auto; margin-right: auto; font-size:25px">
+
+  <tr>
+    <td>
+        <a href="https://github.com/azimxxm/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azimxxm&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: overall Top Langs " />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/azimxxm/">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azimxxm&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by repo" />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/azimxxm/">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azimxxm&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by commit" />
+        </a>
+    </td>
+  </tr>
+
+</table>
+
+
+
+
+
+
+
