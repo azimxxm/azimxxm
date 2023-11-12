@@ -18,7 +18,7 @@
 <table style="margin-left: auto; margin-right: auto; font-size:25px">
 
   <tr><th>Cell phone  📞</th>               <th>Home phone ☎️</th></tr>
-  <tr><td>(+998) 99 409-01-29</td>          <td>(+99870) 603-89-30</td></tr>
+  <tr><td>(+998) 99 409-01-29</td>          <td>(+99890) 816-52-52</td></tr>
 
 </table>
 
