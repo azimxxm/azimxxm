@@ -3,7 +3,7 @@
 <table style="margin-left: auto; margin-right: auto; font-size:25px">
 
   <tr>
-  <td>iOS Developer</td>
+  <td>Software Engineer at</td>
     <td>
         <a  href="https://1sonia.uz/" target="_blank" rel="noreferrer">
         <img src="https://user-images.githubusercontent.com/76002783/168444357-e0b4f5b1-5503-4d37-9700-0005ea4055de.png"  height="40" alt="1sonia.uz-logo" />
